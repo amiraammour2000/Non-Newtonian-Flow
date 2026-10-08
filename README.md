@@ -1,7 +1,7 @@
 # Physics-Informed Neural Networks for Coupled Non-Newtonian Flow and Heat Transport
 
 Official code repository for the manuscript:  
-**"Coupled Non-Newtonian Flow and Heat Transport in a Plane Channel: A Physics-Informed Neural Network Study"**
+**"A validated physics-informed neural network framework for Carreau–Yasuda thermofluidics: benchmark, diagnosis, and Brinkman-invariant formulation"**
 
 **Authors:** Mohamed El Amine Fodil<sup>1,2,*</sup>, Merwan Abdelbari<sup>3</sup>, Meriem Fodil<sup>3</sup>  
 <sup>1</sup> Department of Hydraulics, Maghnia University Centre, Tlemcen, Algeria  
